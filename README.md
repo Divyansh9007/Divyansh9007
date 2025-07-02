@@ -3,6 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansh9007&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh9007" /> </p>
 
+### 🧑‍💻 About Me
+
+I'm **Divyansh Pansari**, a passionate and self-driven developer from India 🇮🇳, currently pursuing a **B.Tech in Computer Science** at VIT, Vellore. I specialize in **full-stack development**, **machine learning**, and **computer vision** — always eager to build, break, and rebuild better systems.
+
+I enjoy solving real-world problems and have developed several impactful projects including:
+- 🚗 **Car Accident Detection using YOLOv8**
+- 🧑‍🎓 **Intern Management System** with role-based dashboards
+- 📷 **Face Recognition Attendance System** deployed on AWS
+
+---
+
+### 🚀 What I'm Doing Right Now
+
+- 📚 Enhancing cloud expertise — AWS Solution Architect & Cloud Practitioner certified
+- 🤖 Advancing real-time ML model deployment & computer vision
+- 💻 Solving 250+ DSA problems on LeetCode, HackerRank & GFG
+- ⚙️ Building and improving open-source apps
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-pansari-896a90234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-pansari-896a90234" height="30" width="40" /></a>
